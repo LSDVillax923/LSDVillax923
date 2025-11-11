@@ -1,15 +1,12 @@
-<h1 align="center">👋 ¡Hola! Soy Diego Andrés Villabón Correa</h1>
+<h1 align="center">👋 Hi! I'm Diego Andrés Villabón Correa</h1>
 
-<p align="center">🎓 Estudiante de octavo semestre de Ingeniería de Sistemas en la Pontificia Universidad Javeriana (Bogotá, Colombia)</p>
+<p align="center">🎓 8th semester Systems Engineering student at Pontificia Universidad Javeriana (Bogotá, Colombia)</p>
 
-
-
-🌱 Soy **estudiante de Ingeniería de Sistemas** con sólida formación en **desarrollo web** y experiencia práctica en la **creación y mantenimiento de páginas comerciales**.  
-💡 Mi experiencia se complementa con **formación académica en cursos ACM y programas especializados en tecnologías web**, fortaleciendo competencias en **programación, gestión de sistemas y soluciones digitales**.  
-🤝 He trabajado en la **implementación y mantenimiento de sistemas de gestión para fundaciones sin ánimo de lucro**, integrando tecnología con impacto social.  
-🌍 Me destaco por el **liderazgo y trabajo en equipo**, evidenciado en mi participación como líder en el **Programa de Liderazgo Ignaciano Universitario Latinoamericano (PLIUL)** y en proyectos de **voluntariado orientados a la infancia y el adulto mayor**.  
-📫 **Correo:** [diegovillaboncorrea@gmail.com](mailto:diegovillaboncorrea@gmail.com)
-
+🌱 I am a **Systems Engineering student** with solid training in **web development** and practical experience in the **creation and maintenance of commercial websites**.  
+💡 My experience is complemented by **academic training in ACM courses and specialized programs in web technologies**, strengthening skills in **programming, systems management, and digital solutions**.  
+🤝 I have worked on the **implementation and maintenance of management systems for non-profit organizations**, integrating technology with social impact.  
+🌍 I stand out for my **leadership and teamwork**, evidenced by my participation as a leader in the **Latin American Ignatian University Leadership Program (PLIUL)** and in **volunteering projects focused on children and the elderly**.  
+📫 **Email:** [diegovillaboncorrea@gmail.com](mailto:diegovillaboncorrea@gmail.com)
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -17,7 +14,7 @@
 
 ---
 
-<h3 align="left">🛠️ Lenguajes y Herramientas:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -55,14 +52,14 @@
 
 ---
 
-<h3>📊 Mis estadísticas de GitHub</h3>
+<h3>📊 My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LSDVillax923&show_icons=true&theme=dark&locale=es&layout=compact" alt="LSDVillax923" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LSDVillax923&show_icons=true&theme=dark&locale=en&layout=compact" alt="LSDVillax923" /></p>
 
 <br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=LSDVillax923&show_icons=true&theme=dark&locale=es" alt="LSDVillax923" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=LSDVillax923&show_icons=true&theme=dark&locale=en" alt="LSDVillax923" /></p>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -72,7 +69,7 @@
 
 ---
 
-<h3 align="left">🤝 Conecta conmigo:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/feed/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -84,10 +81,10 @@
 
 <br>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=LSDVillax923&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="LSDVillax923" />
+  <img src="https://komarev.com/ghpvc/?username=LSDVillax923&label=Profile%20views&color=0e75b6&style=flat" alt="LSDVillax923" />
 </p>
 
 ---
 
 [Diego Andrés Villabón Correa](https://github.com/LSDVillax923)  
-Última actualización: **Noviembre de 2025**
+Last updated: **November 2025**
