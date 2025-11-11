@@ -2,12 +2,6 @@
 
 <p align="center">🎓 Estudiante de octavo semestre de Ingeniería de Sistemas en la Pontificia Universidad Javeriana (Bogotá, Colombia)</p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-</p>
-
 
 
 🌱 Soy **estudiante de Ingeniería de Sistemas** con sólida formación en **desarrollo web** y experiencia práctica en la **creación y mantenimiento de páginas comerciales**.  
