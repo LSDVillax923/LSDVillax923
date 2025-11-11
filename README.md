@@ -8,6 +8,8 @@
   </a>
 </p>
 
+
+
 🌱 Soy **estudiante de Ingeniería de Sistemas** con sólida formación en **desarrollo web** y experiencia práctica en la **creación y mantenimiento de páginas comerciales**.  
 💡 Mi experiencia se complementa con **formación académica en cursos ACM y programas especializados en tecnologías web**, fortaleciendo competencias en **programación, gestión de sistemas y soluciones digitales**.  
 🤝 He trabajado en la **implementación y mantenimiento de sistemas de gestión para fundaciones sin ánimo de lucro**, integrando tecnología con impacto social.  
@@ -30,9 +32,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
   </a>
@@ -45,9 +44,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
+  
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/> 
   </a>
