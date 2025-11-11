@@ -8,12 +8,12 @@
   </a>
 </p>
 
-🌱 Actualmente estoy aprendiendo sobre **Desarrollo Web Full-Stack**  
-💻 Interesado en **arquitectura de software, microservicios, analítica de datos y diseño de sistemas resilientes.**  
-📚 Formación complementaria: cursos ACM, SENA y Power BI.  
-💬 Me apasiona combinar la tecnología con el impacto social.  
-📫 **Contáctame:** [diegovillaboncorrea@gmail.com](mailto:diegovillaboncorrea@gmail.com)  
-⚡ Dato curioso: disfruto liderar proyectos colaborativos y participar en iniciativas de voluntariado.
+🌱 Soy **estudiante de Ingeniería de Sistemas** con sólida formación en **desarrollo web** y experiencia práctica en la **creación y mantenimiento de páginas comerciales**.  
+💡 Mi experiencia se complementa con **formación académica en cursos ACM y programas especializados en tecnologías web**, fortaleciendo competencias en **programación, gestión de sistemas y soluciones digitales**.  
+🤝 He trabajado en la **implementación y mantenimiento de sistemas de gestión para fundaciones sin ánimo de lucro**, integrando tecnología con impacto social.  
+🌍 Me destaco por el **liderazgo y trabajo en equipo**, evidenciado en mi participación como líder en el **Programa de Liderazgo Ignaciano Universitario Latinoamericano (PLIUL)** y en proyectos de **voluntariado orientados a la infancia y el adulto mayor**.  
+📫 **Correo:** [diegovillaboncorrea@gmail.com](mailto:diegovillaboncorrea@gmail.com)
+
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
