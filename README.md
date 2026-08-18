@@ -53,19 +53,28 @@
 ---
 
 <h3>📊 My GitHub Stats</h3>
+
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LSDVillax923&show_icons=true&theme=dark&locale=en&layout=compact" alt="LSDVillax923" /></p>
+<p>
+  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=LSDVillax923&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
 <br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=LSDVillax923&show_icons=true&theme=dark&locale=en" alt="LSDVillax923" /></p>
+<p>
+  <img align="left" src="https://github-stats-extended.vercel.app/api?username=LSDVillax923&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+</p>
 
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LSDVillax923&theme=dark" alt="LSDVillax923" /></p>
+<p>
+  <img align="left" src="https://streak-stats.demolab.com/?user=LSDVillax923&theme=dark" alt="GitHub Streak" />
+</p>
 
 <br><br><br><br><br><br><br><br><br><br>
+
+---
 
 ---
 
